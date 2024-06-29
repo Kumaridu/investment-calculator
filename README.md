@@ -17,20 +17,23 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Kumaridu/investment-calculator
+   ```bash
+   git clone https://github.com/Kumaridu/investment-calculator
 
-2. Navigate to the project directory:
-`cd investment-calculator`
+3. Navigate to the project directory:
+   ```bash
+   cd investment-calculator
 
-3. Install the dependencies:
-`npm install`
+5. Install the dependencies:
+   ```bash
+   npm install
 
 ## Running the Application
 
 To start the application, use the following command:
 `npm start`
 
-Open your browser and navigate to http://localhost:4200/
+Open your browser and navigate to http://localhost:4200/ 
 
 ## Usage
 
